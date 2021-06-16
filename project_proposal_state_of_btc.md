@@ -1,0 +1,3 @@
+# Project Proposal - State of Bitcoin Dashboard
+
+For the Data Engineering module project, I will create a dashboard that provides information summarizing the state of Bitcoin that day. Using jesse.trade, I will pull price data, including trading volume and candle data (opening, closing, high, and low prices). I will also use the Glassnode API to pull on-chain metrics. I will manipulate the collected data to calculate a variety of price indicators and more novel features. I will organize the data in a daily dashboard that can be launched in a web application, likely using Bokeh. I will also provide a one week price prediction (up vs. down) using a random forest classification model that I have been developing.
