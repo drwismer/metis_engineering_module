@@ -9,8 +9,8 @@ config = {
         'postgres_host': '127.0.0.1',
         'postgres_name': 'bitcoin',
         'postgres_port': 5432,
-        'postgres_username': 'davidwismer',
-        'postgres_password': 'D3c3pticon9',
+        'postgres_username': '___________',
+        'postgres_password': '___________',
     },
 
     # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
