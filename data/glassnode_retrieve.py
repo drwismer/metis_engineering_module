@@ -8,7 +8,7 @@ class GlassnodeRetrieve():
         """
         
         gn = GlassnodeClient()
-        gn.set_api_key('1paIjI1fhjUKmH0fMu6OEpAR1ph')
+        gn.set_api_key('____________')
 
         # Set API parameters and metric URLs
         api_param = {'url' : '',
