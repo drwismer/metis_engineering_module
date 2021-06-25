@@ -12,11 +12,11 @@ def scrape_bitcoin_reddit(latest_date):
     """
     
     # Instantiate Reddit and subreddit instances
-    reddit = praw.Reddit(client_id='5C838P4VrI5QLg',
-                         client_secret='bxH5wSDy4c3UpFCvax2s6l7C34RIRw',
+    reddit = praw.Reddit(client_id='_____________',
+                         client_secret='_____________',
                          user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:39.0) Gecko/20100101 Firefox/39.',
-                         username='slickfingers',
-                         password='zikkic2*')
+                         username='_____________',
+                         password='_____________')
 
     btc = reddit.subreddit('bitcoin')
 
